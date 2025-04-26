@@ -8,7 +8,7 @@ export function activate(context: vscode.ExtensionContext) {
         if (!editor) return;
 
         const { document, selection } = editor;
-        const emojis = ['🚀', '✨', '🔥', '💡', '🌟', '⚡', '🎉', '💥', '🌈', '🐞'];
+        const emojis = ['🚀', '✨', '🔥', '💡', '🌟', '⚡', '🎉', '💥', '🌈', '🐞', '🌿', '🌊', '🪐', '⚡', '🔍', '📌'];
         const emoji = emojis[Math.floor(Math.random() * emojis.length)];
         const fileName = path.basename(document.fileName);
         
