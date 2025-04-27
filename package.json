@@ -1,7 +1,7 @@
 {
   "name": "console-log-with-emoji",
   "displayName": "console-log-with-emoji",
-  "publisher": "parthapply",
+  "publisher": "console-log-with-emoji",
   "description": "Adds console log with random emoji",
   "version": "0.0.1",
   "engines": {
