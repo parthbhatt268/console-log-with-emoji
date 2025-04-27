@@ -1,5 +1,6 @@
 {
   "name": "console-log-with-emoji",
+  "icon": "icon.png",
   "displayName": "console-log-with-emoji",
   "publisher": "console-log-with-emoji",
   "description": "Adds console log with random emoji",
