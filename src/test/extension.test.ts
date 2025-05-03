@@ -1,3 +1,6 @@
+// THERE are NO test here, just "TRUST me bro it works! :)"
+// Project was only made for fun, but if it becomes more serious, I’ll add tests then.
+
 import * as assert from 'assert';
 
 // You can import and use all API from the 'vscode' module
